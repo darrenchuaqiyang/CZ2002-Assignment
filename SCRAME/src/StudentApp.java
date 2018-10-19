@@ -1,3 +1,11 @@
+/**
+ * Documentation 
+ * https://www.tutorialspoint.com/java/java_documentation.htm
+ * 
+ * List explanation
+ * https://www.geeksforgeeks.org/list-interface-java-examples/
+ */
+
 import java.util.List;
 import java.util.ArrayList;
 
